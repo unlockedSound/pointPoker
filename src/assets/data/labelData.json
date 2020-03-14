@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1715412065,
+    "node_id": "MDU6TGFiZWwxNzE1NDEyMDY1",
+    "url": "https://api.github.com/repos/unlockedSound/label_set/labels/0.5%20SP",
+    "name": "0.5 SP",
+    "color": "ffe4b3",
+    "default": false,
+    "description": ".5 story points"
+  },
+  {
+    "id": 1715412094,
+    "node_id": "MDU6TGFiZWwxNzE1NDEyMDk0",
+    "url": "https://api.github.com/repos/unlockedSound/label_set/labels/1%20SP",
+    "name": "1 SP",
+    "color": "ffd280",
+    "default": false,
+    "description": "1 story point"
+  },
+  {
+    "id": 1715412122,
+    "node_id": "MDU6TGFiZWwxNzE1NDEyMTIy",
+    "url": "https://api.github.com/repos/unlockedSound/label_set/labels/2%20SP",
+    "name": "2 SP",
+    "color": "ffc04d",
+    "default": false,
+    "description": "2 story points"
+  },
+  {
+    "id": 1715412190,
+    "node_id": "MDU6TGFiZWwxNzE1NDEyMTkw",
+    "url": "https://api.github.com/repos/unlockedSound/label_set/labels/3%20SP",
+    "name": "3 SP",
+    "color": "ffae1a",
+    "default": false,
+    "description": "3 story pointes"
+  },
+  {
+    "id": 1715412233,
+    "node_id": "MDU6TGFiZWwxNzE1NDEyMjMz",
+    "url": "https://api.github.com/repos/unlockedSound/label_set/labels/5%20SP",
+    "name": "5 SP",
+    "color": "e69500",
+    "default": false,
+    "description": "5 story points"
+  },
+  {
+    "id": 1715412253,
+    "node_id": "MDU6TGFiZWwxNzE1NDEyMjUz",
+    "url": "https://api.github.com/repos/unlockedSound/label_set/labels/8%20SP",
+    "name": "8 SP",
+    "color": "b37300",
+    "default": false,
+    "description": "8 story points"
+  },
+  {
+    "id": 1715412309,
+    "node_id": "MDU6TGFiZWwxNzE1NDEyMzA5",
+    "url": "https://api.github.com/repos/unlockedSound/label_set/labels/BLOCKED",
+    "name": "BLOCKED",
+    "color": "000000",
+    "default": false,
+    "description": "Cannot move forward"
+  }
+]
